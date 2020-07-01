@@ -27,7 +27,7 @@ First a cleaning of the dataset was conducted. During this process, only active 
 - Prospective users: users who haven't bought and sold anything but who are actively interacting with other accounts
 By segmenting the users into 4 groups, we hoped to bring to light specific user behaviours from which we could derive actionable insights to improve the overall growth of the platform.
 
-The correlation between the different metrics were analyzed and visualized on Tableau and python with scatter plots, histograms, box plots and bar graphs: ([Notebooks](https://github.com/jsialell/e-commerce/Notebooks), [Tableau](https://github.com/jsialell/e-commerce/Presentation/Project_curry_visualizations_tableau.pdf)).  
+The correlation between the different metrics were analyzed and visualized on Tableau and python with scatter plots, histograms, box plots and bar graphs: ([Notebooks](https://github.com/jsialell/e-commerce/tree/master/Notebooks), [Tableau](https://github.com/jsialell/e-commerce/tree/master/Presentation/Project_curry_visualizations_tableau.pdf)).  
 
 ### The following observations and actionable insights were made:
 #### Expansion of Market Share:
@@ -54,9 +54,9 @@ There is a positive correlation between the number of social followers and the n
 The platform is significantly dependent on its top sellers: the top 1% of the sellers (20 top sellers) account for 17% of the total products sold, while the top 10% of the sellers (203 top sellers) account for ca. 60% of the total products sold. Considering the retention of the different user segments and their share in the number of products sold, we could see that there were two distincts groups of users on the platform: 1. private users with little product volume and activity and, 2. professional users with higher product volume and activity on the platform. Hence, the platform should better fit the needs of these two specific group. To do so, a subscription premium account for professional users could be considered. The premium account would allow users to customize their user page (styles, HTML) and better brand themselves. It would also offer premium listings.
 
 ## Visualization
-- [Presentation](https://github.com/jsialell/e-commerce/Presentation/Curry%20Consulting.pdf)
-- [Tableau Visualization](https://github.com/jsialell/e-commerce/Presentation/Project_curry_visualizations_tableau.pdf) 
+- [Presentation](https://github.com/jsialell/e-commerce/tree/master/Presentation/Curry%20Consulting.pdf)
+- [Tableau Visualization](https://github.com/jsialell/e-commerce/tree/master/Presentation/Project_curry_visualizations_tableau.pdf) 
 
 ## Dataset  
-[E-commerce - Users of a French C2C fashion store](https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store/data) 
+- [E-commerce - Users of a French C2C fashion store](https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store/data) 
  
