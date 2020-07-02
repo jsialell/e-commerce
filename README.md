@@ -1,4 +1,4 @@
-# e-commerce
+# Business intelligence for an e-commerce platform
 
 ## Content
 - [Project Description](#project-description)
